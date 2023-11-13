@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/syazwanisamsudin.github.io/react-test/static/css/main.fa9e2833.css",
-    "main.js": "/syazwanisamsudin.github.io/react-test/static/js/main.9290cf43.js",
-    "static/js/787.30237536.chunk.js": "/syazwanisamsudin.github.io/react-test/static/js/787.30237536.chunk.js",
-    "index.html": "/syazwanisamsudin.github.io/react-test/index.html",
-    "main.fa9e2833.css.map": "/syazwanisamsudin.github.io/react-test/static/css/main.fa9e2833.css.map",
-    "main.9290cf43.js.map": "/syazwanisamsudin.github.io/react-test/static/js/main.9290cf43.js.map",
-    "787.30237536.chunk.js.map": "/syazwanisamsudin.github.io/react-test/static/js/787.30237536.chunk.js.map"
+    "main.css": "./static/css/main.fa9e2833.css",
+    "main.js": "./static/js/main.d13c16a3.js",
+    "static/js/787.30237536.chunk.js": "./static/js/787.30237536.chunk.js",
+    "index.html": "./index.html",
+    "main.fa9e2833.css.map": "./static/css/main.fa9e2833.css.map",
+    "main.d13c16a3.js.map": "./static/js/main.d13c16a3.js.map",
+    "787.30237536.chunk.js.map": "./static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa9e2833.css",
-    "static/js/main.9290cf43.js"
+    "static/js/main.d13c16a3.js"
   ]
 }
