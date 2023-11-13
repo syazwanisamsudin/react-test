@@ -1,0 +1,20 @@
+* {
+  /*border: 1px solid white;*/
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  /*determines how the total width and height of an element are calculated, 
+  taking into account its padding and border.*/
+  /*border-box is not affected by the padding and thickness of the border*/
+  /*Padding and border thickness wont be included*/
+  box-sizing: border-box;
+}
+body{
+  background: #080808;
+  color: #fff;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* 100% of the viewport height */
+}
